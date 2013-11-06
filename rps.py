@@ -10,6 +10,7 @@ Todo:
 - Detect if a user is repeatedly throwing the same thing and counter that
 - Sweet graphics(?)
 '''
+- Profit?
 
 #Housekeeping
 from random import randint
